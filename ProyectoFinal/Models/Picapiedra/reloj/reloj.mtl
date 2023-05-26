@@ -1,0 +1,82 @@
+newmtl Cucu_Watch_MA:lambert2SG
+illum 4
+Kd 0.33 0.33 0.33
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Cucu_Watch_MA:lambert4SG
+illum 4
+Kd 1.00 0.86 0.61
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Cucu_Watch_MA:lambert5SG
+illum 4
+Kd 0.50 0.17 0.17
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Cucu_Watch_MA:lambert6SG
+illum 4
+Kd 1.00 0.93 0.79
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Cucu_Watch_MA:lambert7SG
+illum 4
+Kd 0.83 0.66 0.54
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Cucu_Watch_MA:lambert8SG
+illum 4
+Kd 0.32 0.84 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Cucu_Watch_MA:lambert9SG
+illum 4
+Kd 0.00 0.66 0.86
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Cucu_Watch_MA:lambert10SG
+illum 4
+Kd 0.63 0.91 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Cucu_Watch_MA:lambert11SG
+illum 4
+Kd 1.00 0.68 0.32
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Cucu_Watch_MA:lambert12SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd fuente.jpg
+Ni 1.00
+newmtl Cucu_Watch_MA:lambert13SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Azul-medio.jpg
+Ni 1.00
+newmtl lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera_arbol.jpg
+Ni 1.00
+newmtl lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd piedras_casa.jpeg
+Ni 1.00
